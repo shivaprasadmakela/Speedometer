@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.heading {
+  color: #ffffff;
+}
+.image {
+  max-height: 50vh;
+  max-width: 80%;
+}
+
+.Accelerate-btn {
+  background-color: #0b69ff;
+  border: 0px;
+  color: #ffffff;
+  height: 4vh;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.breaks-btn {
+  background-color: transparent;
+  border: 20pxpx;
+  color: #ffffff;
+  height: 4vh;
+  border-radius: 10px;
+  border-color: #ffffff;
+}
